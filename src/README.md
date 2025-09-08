@@ -11,7 +11,7 @@ actions:
     type: primary
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright 2024 apm.to Inc.
+footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright 2025 apm.to Inc.
 ---
 
 <div style="height:100px"></div>
@@ -22,5 +22,7 @@ Welcome to apm and the world of package management in ABAP. Install, uninstall, 
 
 Latest build: <a href="https://raw.githubusercontent.com/abapGit/build/main/zabapgit_standalone.prog.abap" download>zabapgit_standalone.prog.abap</a>
 
-For questions, comments, bugs, feature requests, or other wishes please create an [issue](https://github.com/abapPM/abapPM/issues).
+You can report issues with or submit updates for this documentation on [GitHub](https://github.com/abapPM/docs.abappm.com).
+
+For questions, comments, bugs, feature requests, or other wishes please create an [issue](https://github.com/abapPM/abapPM/issues) in the main apm repository.
 
