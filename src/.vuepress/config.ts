@@ -1,6 +1,9 @@
 import { viteBundler } from "@vuepress/bundler-vite";
 import { defineUserConfig } from "vuepress";
+import { getDirname, path } from "vuepress/utils";
 import theme from "./theme.js";
+
+const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
   base: "/",
@@ -15,5 +18,7 @@ export default defineUserConfig({
 
   bundler: viteBundler(),
 
-  theme
+  theme,
+
+  clientConfigFile: path.resolve(__dirname, "./client.ts")
 });

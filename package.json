@@ -21,5 +21,9 @@
     "trailingComma": "none",
     "arrowParens": "avoid",
     "printWidth": 100
+  },
+  "dependencies": {
+    "@types/three": "^0.180.0",
+    "three": "^0.180.0"
   }
 }
