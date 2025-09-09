@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://docs.abappm.com/sitemap.xml
