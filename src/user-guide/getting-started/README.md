@@ -10,7 +10,3 @@ dir:
 ## Catalog
 
 - [Installation](install.md)
-- [Upgrading](upgrade.md)
-- [Uninstalling](uninstall.md)
-- [UI Layout](ui-layout.md)
-- [UI Features](ui.md)
