@@ -1,6 +1,4 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, deNavbar } from "./navbar/index.js";
-import { enSidebar, deSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://docs.abappm.com",
@@ -8,89 +6,72 @@ export default hopeTheme({
     name: "apm",
     url: "https://abappm.com"
   },
+
   repo: "https://github.com/abapPM/docs.abappm.com",
   docsDir: "src",
-  iconAssets: "fontawesome-with-brands",
   editLink: true,
   logo: "/logo.svg",
   logoDark: "/logo-dark.svg",
   favicon: "/favicon.svg",
 
-  locales: {
-    "/": {
-      // navbar
-      navbar: enNavbar,
-
-      // sidebar
-      sidebar: enSidebar,
-      footer: "",
-      copyright: "Copyright 2024 apm.to Inc.",
-      displayFooter: true
+  // navbar
+  navbar: [
+    {
+      text: "Home",
+      icon: "house",
+      link: "/"
+    },
+    {
+      text: "User Guide",
+      icon: "circle-info",
+      link: "/user-guide/"
+    },
+    {
+      text: "Development Guide",
+      icon: "code",
+      link: "/development-guide/"
     }
+  ],
 
-    /**
-     * German locale config
-     */
-    // "/de/": {
-    //   // navbar
-    //   navbar: deNavbar,
+  // sidebar
+  sidebar: {
+    "/user-guide": "structure",
+    "/development-guide": "structure"
+  },
+  footer: "",
+  copyright: "Copyright 2025 apm.to Inc.",
+  displayFooter: true,
 
-    //   // sidebar
-    //   sidebar: deSidebar,
-
-    //   footer: "Default footer",
-
-    //   displayFooter: true,
-
-    //   // page meta
-    //   metaLocales: {
-    //     editLink: "Diese Seite auf GitHub bearbeiten",
-    //   },
-    // },
+  markdown: {
+    figure: true,
+    imgLazyload: true
   },
 
   plugins: {
-    autoCatalog: false,
-    // comment: {
-    //   // @ts-expect-error: You should generate and use your own comment service
-    //   provider: "Waline",
-    // },
+    catalog: false,
+    icon: {
+      assets: "fontawesome-with-brands"
+    },
 
-    // all features are enabled for demo, only preserve features you need here
-    mdEnhance: {
-      align: true,
-      attrs: true,
-      chart: true,
-      codetabs: true,
-      demo: true,
-      echarts: true,
-      figure: true,
-      flowchart: true,
-      gfm: true,
-      imgLazyload: true,
-      imgSize: true,
-      include: true,
-      katex: true,
-      mark: true,
-      mermaid: true,
-      presentation: ["highlight", "math", "search", "notes", "zoom"],
-      stylize: [
+    redirect: {
+      // redirect old pages to new site (for future use, if required)
+      config: {
+        "/old.html": "/new.html"
+      }
+    },
+    slimsearch: {
+      indexContent: true,
+      // add supports for category and tags
+      customFields: [
         {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended"
-              };
-          }
+          getter: page => (page.frontmatter as any).category,
+          formatter: "Category: $content"
+        },
+        {
+          getter: page => page.frontmatter.tag,
+          formatter: "Tag: $content"
         }
-      ],
-      sub: true,
-      sup: true,
-      tabs: true,
-      vPre: true
+      ]
     }
   }
 });
