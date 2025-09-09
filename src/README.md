@@ -4,7 +4,6 @@ icon: home
 title: Home
 heroImage: /logo.svg
 heroImageDark: /logo-dark.svg
-heroImageStyle: hero-image
 heroText: false
 heroAlt: apm Logo with Text
 actions:
