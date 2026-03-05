@@ -27,7 +27,7 @@ Welcome to apm and the **world of package management** in ABAP:
 
 ![apm screenshot](/img/apm_screenshots_001.png)
 
-Latest build: <a href="https://raw.githubusercontent.com/abapPM/abapPM/main/build/zabappm_standalone.prog.abap" downloa target="_blank">zabappm_standalone.prog.abap</a> (right-click and save)
+Latest build: <a href="https://raw.githubusercontent.com/abapPM/abapPM-Standalone/refs/heads/main/src/zabappm_standalone.prog.abap" downloa target="_blank">zabappm_standalone.prog.abap</a> (right-click and save)
 
 You can report issues with or submit updates for this documentation on [GitHub](https://github.com/abapPM/docs.abappm.com).
 
