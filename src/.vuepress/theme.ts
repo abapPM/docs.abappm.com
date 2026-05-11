@@ -22,9 +22,24 @@ export default hopeTheme({
       link: "/"
     },
     {
-      text: "User Guide",
-      icon: "circle-info",
-      link: "/user-guide/"
+      text: "Get Started",
+      icon: "rocket",
+      link: "/get-started/"
+    },
+    {
+      text: "Packages and Modules",
+      icon: "box-open",
+      link: "/packages-and-modules/"
+    },
+    {
+      text: "apm Client",
+      icon: "terminal",
+      link: "/apm-client/"
+    },
+    {
+      text: "Policies",
+      icon: "scale-balanced",
+      link: "/policies/"
     },
     {
       text: "Development Guide",
@@ -34,10 +49,7 @@ export default hopeTheme({
   ],
 
   // sidebar
-  sidebar: {
-    "/user-guide": "structure",
-    "/development-guide": "structure"
-  },
+  sidebar: "structure",
   footer: "",
   copyright: "Copyright 2025 apm.to Inc.",
   displayFooter: true,
@@ -56,7 +68,10 @@ export default hopeTheme({
     redirect: {
       // redirect old pages to new site (for future use, if required)
       config: {
-        "/old.html": "/new.html"
+        "/old.html": "/new.html",
+        "/user-guide/": "/get-started/",
+        "/user-guide/getting-started/": "/apm-client/installation.html",
+        "/user-guide/getting-started/install.html": "/apm-client/installation.html"
       }
     },
     slimsearch: {

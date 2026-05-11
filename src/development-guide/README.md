@@ -5,7 +5,8 @@ article: false
 index: false
 ---
 
-Development related information
+Development-related information for contributors to the apm client and this docs site.
 
-## Catalog
+## In This Section
 
+This section will grow with contributor setup, architecture notes, and contribution workflows.

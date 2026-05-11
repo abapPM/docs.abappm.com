@@ -8,11 +8,11 @@ heroText: false
 heroAlt: apm Logo with Text
 actions:
   - text: 🚀 Start Here
-    link: /user-guide/getting-started/install
+    link: /get-started/
     type: primary
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright 2025 <a href="https://abappm.com" target="_blank">apm.to Inc.</a>
+footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright 2025 <a href="https://abappm.com" target="_blank">apm.to, Inc.</a>
 ---
 
 <!--ApmLogo3D /-->
@@ -27,9 +27,11 @@ Welcome to apm and the **world of package management** in ABAP:
 
 ![apm screenshot](/img/apm_screenshots_001.png)
 
-Latest build: <a href="https://raw.githubusercontent.com/abapPM/abapPM-Standalone/refs/heads/main/src/zabappm_standalone.prog.abap" downloa target="_blank">zabappm_standalone.prog.abap</a> (right-click and save)
+## Find Your Way
 
-You can report issues with or submit updates for this documentation on [GitHub](https://github.com/abapPM/docs.abappm.com).
+- New here? Start with [Get Started](/get-started/).
+- Working with the registry? Head to [Packages and Modules](/packages-and-modules/).
+- Looking for commands and setup details? Open [apm Client](/apm-client/).
+- Need legal or policy information? See [Policies](/policies/).
 
-For questions, comments, bugs, feature requests, or other wishes please create an [issue](https://github.com/abapPM/abapPM/issues) in the main apm repository.
-
+For questions, comments, bugs, feature requests, or documentation feedback, contact [support@abappm.com](mailto:support@abappm.com).

@@ -1,6 +1,6 @@
 {
   "name": "docs.abappm.com",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "apm Documentation",
   "license": "CC-BY-4.0",
   "scripts": {
@@ -10,12 +10,12 @@
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.24",
-    "@vuepress/plugin-slimsearch": "2.0.0-rc.112",
-    "sass-embedded": "^1.83.0",
-    "vue": "^3.5.21",
-    "vuepress": "2.0.0-rc.24",
-    "vuepress-theme-hope": "2.0.0-rc.94"
+    "@vuepress/bundler-vite": "2.0.0-rc.29",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.129",
+    "sass-embedded": "1.99.0",
+    "vue": "3.5.34",
+    "vuepress": "2.0.0-rc.29",
+    "vuepress-theme-hope": "2.0.0-rc.106"
   },
   "prettier": {
     "trailingComma": "none",
@@ -23,7 +23,7 @@
     "printWidth": 100
   },
   "dependencies": {
-    "@types/three": "^0.180.0",
-    "three": "^0.180.0"
+    "@types/three": "0.184.1",
+    "three": "0.184.0"
   }
 }
