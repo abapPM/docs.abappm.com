@@ -10,12 +10,15 @@
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.29",
-    "@vuepress/plugin-slimsearch": "2.0.0-rc.129",
+    "@vuepress/bundler-vite": "2.0.0-rc.30",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.130",
     "sass-embedded": "1.99.0",
     "vue": "3.5.34",
-    "vuepress": "2.0.0-rc.29",
-    "vuepress-theme-hope": "2.0.0-rc.106"
+    "vuepress": "2.0.0-rc.30",
+    "vuepress-theme-hope": "2.0.0-rc.107"
+  },
+  "overrides": {
+    "postcss": "8.5.25"
   },
   "prettier": {
     "trailingComma": "none",
