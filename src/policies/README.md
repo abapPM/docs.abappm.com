@@ -7,7 +7,7 @@ dir:
   order: 40
 ---
 
-This section contains the public policies and legal terms for apm.to, Inc. (apm).
+This section contains the public policies and legal terms for apm.to Inc. (apm).
 
 ## In This Section
 

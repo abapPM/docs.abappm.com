@@ -3,7 +3,7 @@ title: Unpublish Policy
 order: 80
 ---
 
-This policy explains when apm.to, Inc. (apm) may allow packages or versions to be unpublished from the registry.
+This policy explains when apm.to Inc. (apm) may allow packages or versions to be unpublished from the registry.
 
 ## General Rule
 

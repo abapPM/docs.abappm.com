@@ -3,7 +3,7 @@ title: Paid Services Terms
 order: 30
 ---
 
-These Paid Services Terms govern subscription-based services offered by apm.to, Inc. (apm).
+These Paid Services Terms govern subscription-based services offered by apm.to Inc. (apm).
 
 ## Scope
 

@@ -3,11 +3,11 @@ title: Security
 order: 110
 ---
 
-This policy describes how apm.to, Inc. (apm) approaches security reporting and incident handling.
+This policy describes how apm.to Inc. (apm) approaches security reporting and incident handling.
 
 ## Responsible Security Disclosure
 
-While we try to be proactive in preventing security problems, unfortunately, it is inevitable that security flaws will be discovered in all software, including our own. It is standard practice in open source to responsibly and privately disclose to the vendor — in this case apm.to, Inc. — a security problem before publicizing, so a fix can be prepared, and we can take proactive steps to protect the users of apm.
+While we try to be proactive in preventing security problems, unfortunately, it is inevitable that security flaws will be discovered in all software, including our own. It is standard practice in open source to responsibly and privately disclose to the vendor — in this case apm.to Inc. — a security problem before publicizing, so a fix can be prepared, and we can take proactive steps to protect the users of apm.
 
 ## Supported Versions
 

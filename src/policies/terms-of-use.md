@@ -5,7 +5,7 @@ order: 10
 
 # Terms of Use
 
-These Terms of Use govern your use of the apm websites, registry, playground, documentation, and related services operated by apm.to, Inc. (apm).
+These Terms of Use govern your use of the apm websites, registry, playground, documentation, and related services operated by apm.to Inc. (apm).
 
 ## Scope
 

@@ -3,7 +3,7 @@ title: Code of Conduct
 order: 40
 ---
 
-This Code of Conduct explains the expectations for participation in the apm community and ecosystem operated by apm.to, Inc. (apm).
+This Code of Conduct explains the expectations for participation in the apm community and ecosystem operated by apm.to Inc. (apm).
 
 ## Our Pledge
 

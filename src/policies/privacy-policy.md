@@ -3,7 +3,7 @@ title: Privacy Policy
 order: 70
 ---
 
-This Privacy Policy describes how apm.to, Inc. (apm) collects, uses, and protects personal information.
+This Privacy Policy describes how apm.to Inc. (apm) collects, uses, and protects personal information.
 
 ## Information We May Collect
 
