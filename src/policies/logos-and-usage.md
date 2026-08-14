@@ -3,7 +3,7 @@ title: Logos and Usage
 order: 100
 ---
 
-This policy explains how names, logos, and brand assets associated with apm.to, Inc. (apm) may be used.
+This policy explains how names, logos, and brand assets associated with apm.to Inc. (apm) may be used.
 
 ## Allowed Uses
 

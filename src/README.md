@@ -12,7 +12,7 @@ actions:
     type: primary
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright 2025 <a href="https://abappm.com" target="_blank">apm.to, Inc.</a>
+footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright 2025 <a href="https://abappm.com" target="_blank">apm.to Inc.</a>
 ---
 
 <!--ApmLogo3D /-->

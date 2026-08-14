@@ -3,7 +3,7 @@ title: Copyright and DMCA Policy
 order: 90
 ---
 
-This policy explains how apm.to, Inc. (apm) handles copyright complaints and similar content-removal requests.
+This policy explains how apm.to Inc. (apm) handles copyright complaints and similar content-removal requests.
 
 ## Reporting a Claim
 

@@ -3,7 +3,7 @@ title: Replication and Crawler Policy
 order: 120
 ---
 
-This policy describes how apm.to, Inc. (apm) expects automated access, crawling, mirroring, and large-scale replication of apm content to be handled.
+This policy describes how apm.to Inc. (apm) expects automated access, crawling, mirroring, and large-scale replication of apm content to be handled.
 
 ## Allowed Behavior
 

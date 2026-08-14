@@ -63,6 +63,6 @@ We are extremely unlikely to transfer control of a user name, as it is totally v
 
 # **License**
 
-Copyright apm.to, Inc., All rights reserved
+Copyright apm.to Inc., All rights reserved
 
 This document may be reused under a [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).

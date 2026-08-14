@@ -3,7 +3,7 @@ title: Package Name Disputes
 order: 50
 ---
 
-This policy explains how apm.to, Inc. (apm) handles package name disputes, name squatting concerns, and related naming conflicts.
+This policy explains how apm.to Inc. (apm) handles package name disputes, name squatting concerns, and related naming conflicts.
 
 ## When to Use This Process
 

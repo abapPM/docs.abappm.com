@@ -2,7 +2,7 @@
 
 # Terms and Licenses
 
-apm.to, Inc. offers software and services under a different licenses and terms of use.
+apm.to Inc. offers software and services under a different licenses and terms of use.
 
 ## Software from apm
 

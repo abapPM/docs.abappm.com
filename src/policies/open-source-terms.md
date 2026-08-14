@@ -3,7 +3,7 @@ title: Open Source Terms
 order: 20
 ---
 
-These Open Source Terms describe how apm.to, Inc. (apm) provides open source software and related materials.
+These Open Source Terms describe how apm.to Inc. (apm) provides open source software and related materials.
 
 ## Scope
 

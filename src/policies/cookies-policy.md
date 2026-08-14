@@ -3,7 +3,7 @@ title: Cookies Policy
 order: 130
 ---
 
-This Cookies Policy explains how apm.to, Inc. (apm) may use cookies and similar technologies on its websites and services.
+This Cookies Policy explains how apm.to Inc. (apm) may use cookies and similar technologies on its websites and services.
 
 ## Why Cookies May Be Used
 
