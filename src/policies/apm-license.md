@@ -5,7 +5,7 @@ order: 60
 
 ## MIT License
 
-Copyright 2024 apm.to Inc. (apm) <https://apm.to>
+Copyright 2026 apm.to Inc. (apm) <https://apm.to>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
