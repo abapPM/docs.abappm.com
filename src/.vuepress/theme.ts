@@ -10,8 +10,8 @@ export default hopeTheme({
   repo: "https://github.com/abapPM/docs.abappm.com",
   docsDir: "src",
   editLink: true,
-  logo: "/logo.svg",
-  logoDark: "/logo-dark.svg",
+  logo: "/apm_logo.svg",
+  logoDark: "/apm_logo.svg",
   favicon: "/favicon.svg",
 
   // navbar

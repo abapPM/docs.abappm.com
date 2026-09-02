@@ -17,7 +17,7 @@ export default defineUserConfig({
   },
 
   head: [
-    ["meta", { name: "keywords", content: "ABAP, package manager, apm, registry, SAP, dependencies" }],
+    ["meta", { name: "keywords", content: "apm, ABAP, package manager, registry, SAP, verioning, dependencies" }],
     ["meta", { name: "author", content: "apm" }],
     ["meta", { name: "robots", content: "index, follow" }]
   ],
