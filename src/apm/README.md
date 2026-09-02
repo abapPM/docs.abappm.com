@@ -1,5 +1,5 @@
 ---
-title: apm Client
+title: apm
 icon: /abap.svg
 article: false
 index: false

@@ -5,7 +5,7 @@ order: 20
 
 ## Summary
 
-This page will document apm client commands and command-driven workflows.
+This page will document apm commands and command-driven workflows.
 
 ## Planned Topics
 

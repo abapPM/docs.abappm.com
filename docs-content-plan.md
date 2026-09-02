@@ -61,7 +61,7 @@ Replace the current `user-guide` section with the following main content areas w
    - Get packages from the registry
    - Secure your code
    - Mention the free public playground
-3. `apm Client`
+3. `apm`
    - Commands
    - Settings
    - Installation
@@ -97,7 +97,7 @@ src/
   README.md
   get-started/
   packages-and-modules/
-  apm-client/
+  apm/
   policies/
   development-guide/
 ```
@@ -115,7 +115,7 @@ Recommended primary navigation in the top navbar:
 - Home
 - Get Started
 - Packages and Modules
-- apm Client
+- apm
 - Policies
 - Developer Guide
 
@@ -123,7 +123,7 @@ Recommended cross-linking:
 
 - Get Started pages link to billing, privacy, account, and relevant client setup pages.
 - Packages and Modules pages link to package governance, unpublish, disputes, security, and client usage pages.
-- apm Client pages link to package workflows, registry authentication, publishing, and troubleshooting flows.
+- apm pages link to package workflows, registry authentication, publishing, and troubleshooting flows.
 
 Recommended left navigation behavior:
 
@@ -149,7 +149,7 @@ Deliverables:
 
 Tasks:
 
-- Replace `user-guide` with the approved top-level sections: `get-started`, `packages-and-modules`, and `apm-client`.
+- Replace `user-guide` with the approved top-level sections: `get-started`, `packages-and-modules`, and `apm`.
 - Define consistent frontmatter conventions for title, order, category, and tags.
 - Create section landing pages with short scope statements.
 - Create a documentation template for:
@@ -267,7 +267,7 @@ Examples:
 - “Publish a package”
 - “Deprecate or manage a version”
 - “Install a package in SAP”
-- “Authenticate the apm client against the registry”
+- “Authenticate apm against the registry”
 
 ## Phase 4: Product Content Backlog
 

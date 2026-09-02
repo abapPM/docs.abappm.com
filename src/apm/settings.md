@@ -5,7 +5,7 @@ order: 30
 
 ## Summary
 
-This page will document apm client settings and configuration behavior.
+This page will document apm settings and configuration behavior.
 
 ## Planned Topics
 

@@ -32,9 +32,9 @@ export default hopeTheme({
       link: "/packages-and-modules/"
     },
     {
-      text: "apm Client",
+      text: "apm",
       icon: "/abap.svg",
-      link: "/apm-client/"
+      link: "/apm/"
     },
     {
       text: "Policies",
@@ -91,8 +91,8 @@ export default hopeTheme({
       config: {
         "/old.html": "/new.html",
         "/user-guide/": "/get-started/",
-        "/user-guide/getting-started/": "/apm-client/installation.html",
-        "/user-guide/getting-started/install.html": "/apm-client/installation.html"
+        "/user-guide/getting-started/": "/apm/installation.html",
+        "/user-guide/getting-started/install.html": "/apm/installation.html"
       }
     },
     slimsearch: {

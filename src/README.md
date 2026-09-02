@@ -33,7 +33,7 @@ Welcome to apm and the **world of package management** in ABAP:
 
 - New here? Start with [Get Started](/get-started/).
 - Working with the registry? Head to [Packages and Modules](/packages-and-modules/).
-- Looking for commands and setup details? Open [apm Client](/apm-client/).
+- Looking for commands and setup details? See [apm](/apm/).
 - Need legal or policy information? See [Policies](/policies/).
 
 For questions, comments, bugs, feature requests, or documentation feedback, contact [support@abappm.com](mailto:support@abappm.com).
