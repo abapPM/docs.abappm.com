@@ -4,8 +4,8 @@ icon: home
 title: Home
 description: A Package Manager and Registry for ABAP
 image: /apm_social_preview.png
-heroImage: /logo.svg
-heroImageDark: /logo-dark.svg
+heroImage: /apm_banner.svg
+heroImageDark: /apm_banner_dark.svg
 heroText: false
 heroAlt: apm Logo with Text
 actions:
@@ -14,7 +14,7 @@ actions:
     type: primary
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright 2025 <a href="https://abappm.com" target="_blank">apm.to Inc.</a>
+footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | Copyright 2026 <a href="https://abappm.com" target="_blank">apm.to Inc.</a>
 ---
 
 <!--ApmLogo3D /-->

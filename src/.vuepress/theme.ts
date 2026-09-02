@@ -51,7 +51,7 @@ export default hopeTheme({
   // sidebar
   sidebar: "structure",
   footer: "",
-  copyright: "Copyright 2026 <a href='https://abappm.com' target='_blank'>apm.to</a> Inc.",
+  copyright: "Copyright 2026 <a href='https://abappm.com' target='_blank'>apm.to Inc.</a>",
   displayFooter: true,
 
   markdown: {
@@ -89,10 +89,7 @@ export default hopeTheme({
     redirect: {
       // redirect old pages to new site (for future use, if required)
       config: {
-        "/old.html": "/new.html",
-        "/user-guide/": "/get-started/",
-        "/user-guide/getting-started/": "/apm/installation.html",
-        "/user-guide/getting-started/install.html": "/apm/installation.html"
+        "/old.html": "/new.html"
       }
     },
     slimsearch: {

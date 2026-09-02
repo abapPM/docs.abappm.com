@@ -7,7 +7,7 @@ dir:
   order: 30
 ---
 
-The apm client is the ABAP-side tool for installing, managing, and publishing packages.
+The apm client is the ABAP-side tool for installing, managing, and publishing packages in your SAP system.
 
 ## In This Section
 
