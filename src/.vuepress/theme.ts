@@ -2,6 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 export default hopeTheme({
   hostname: "https://docs.abappm.com",
+  pageInfo: false,
   author: {
     name: "apm",
     url: "https://abappm.com"
