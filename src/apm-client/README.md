@@ -1,6 +1,6 @@
 ---
 title: apm Client
-icon: terminal
+icon: /abap.svg
 article: false
 index: false
 dir:
