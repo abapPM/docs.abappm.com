@@ -60,6 +60,27 @@ export default hopeTheme({
   },
 
   plugins: {
+    seo: {
+      fallbackImage: "/apm_social_preview.png",
+      autoDescription: true,
+      canonical: "https://docs.abappm.com",
+      ogp: (ogp, page) => {
+        const hostname = "https://docs.abappm.com";
+        const customImage = page.frontmatter.image as string | undefined;
+        const imagePath = customImage || "/apm_social_preview.png";
+        const imageUrl = imagePath.startsWith("http")
+          ? imagePath
+          : `${hostname}${imagePath.startsWith("/") ? imagePath : `/${imagePath}`}`;
+
+        return {
+          ...ogp,
+          "og:image": imageUrl,
+          "twitter:card": "summary_large_image",
+          "twitter:image:alt": String(page.title || "apm Docs")
+        };
+      }
+    },
+
     catalog: false,
     icon: {
       assets: "fontawesome-with-brands"

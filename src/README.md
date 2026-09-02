@@ -2,6 +2,8 @@
 home: true
 icon: home
 title: Home
+description: A Package Manager and Registry for ABAP
+image: /apm_social_preview.png
 heroImage: /logo.svg
 heroImageDark: /logo-dark.svg
 heroText: false
