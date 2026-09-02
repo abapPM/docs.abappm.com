@@ -51,7 +51,7 @@ export default hopeTheme({
   // sidebar
   sidebar: "structure",
   footer: "",
-  copyright: "Copyright 2026 apm.to Inc.",
+  copyright: "Copyright 2026 <a href='https://abappm.com' target='_blank'>apm.to</a> Inc.",
   displayFooter: true,
 
   markdown: {

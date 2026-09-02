@@ -18,3 +18,8 @@
 .vp-hero-image {
   max-width: 24rem;
 }
+
+/* ABAP icon - dark mode */
+html[data-theme="dark"] img[src="/abap.svg"].vp-icon {
+  src: url("/abap-dark.svg");
+}
