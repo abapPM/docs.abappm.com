@@ -33,7 +33,7 @@ export default hopeTheme({
     },
     {
       text: "apm Client",
-      icon: "terminal",
+      icon: "/abap.svg",
       link: "/apm-client/"
     },
     {
@@ -51,7 +51,7 @@ export default hopeTheme({
   // sidebar
   sidebar: "structure",
   footer: "",
-  copyright: "Copyright 2025 apm.to Inc.",
+  copyright: "Copyright 2026 apm.to Inc.",
   displayFooter: true,
 
   markdown: {
@@ -61,7 +61,7 @@ export default hopeTheme({
 
   plugins: {
     seo: {
-      fallbackImage: "/apm_social_preview.png",
+      fallBackImage: "/apm_social_preview.png",
       autoDescription: true,
       canonical: "https://docs.abappm.com",
       ogp: (ogp, page) => {
