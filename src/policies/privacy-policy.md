@@ -42,4 +42,4 @@ See [Security](/policies/security.html) for related security expectations.
 
 ## Contact
 
-Privacy questions can be sent to [support@abappm.com](mailto:support@abappm.com).
+Privacy questions can be sent to our Data Protection Officer at [support@abappm.com](mailto:support@abappm.com).
