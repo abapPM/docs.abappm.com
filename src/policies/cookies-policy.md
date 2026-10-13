@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Cookies Policy
 order: 130
 ---

@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: apm License
 order: 60
 ---
