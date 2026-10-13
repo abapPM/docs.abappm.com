@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Privacy Policy
 order: 70
 ---

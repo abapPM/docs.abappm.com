@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Package Name Disputes
 order: 50
 ---
