@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Open Source Terms
 order: 20
 ---

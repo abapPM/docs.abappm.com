@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Logos and Usage
 order: 100
 ---

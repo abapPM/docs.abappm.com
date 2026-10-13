@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Unpublish Policy
 order: 80
 ---
@@ -39,7 +40,7 @@ When full unpublish is not appropriate, apm may prefer alternatives such as:
 
 ## How to Unpublish
 
-Use the apm Client to unpublish a single version (the most recent one) or all versions of a package.
+Use the apm to unpublish a single version (the most recent one) or all versions of a package.
 
 ## Requests
 

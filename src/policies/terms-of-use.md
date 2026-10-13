@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Terms of Use
 order: 10
 ---

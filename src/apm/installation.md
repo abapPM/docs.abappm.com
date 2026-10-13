@@ -33,6 +33,6 @@ Now you can use **apm** by executing the report in transaction `SE38`. For conve
 
 To contribute to the **apm** project, install the developer version of **apm** using abapGit.
 
-Create an online repository in abapGit for the public apm client source and package `/APMG/APM`. First pull only the namespace, then pull the rest of the objects.
+Create an online repository in abapGit for the public apm source and package `/APMG/APM`. First pull only the namespace, then pull the rest of the objects.
 
-For more details, see the contribution guidance in the developer documentation and the public apm client source.
+For more details, see the contribution guidance in the developer documentation and the public apm source.

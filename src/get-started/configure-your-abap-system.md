@@ -9,7 +9,7 @@ Before using apm in SAP, make sure your ABAP system and GUI setup are ready.
 
 ## Start Here
 
-- [Installation](/apm-client/installation.html)
+- [Installation](/apm/installation.html)
 
 ## Planned Topics
 
