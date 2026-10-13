@@ -2,6 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 export default hopeTheme({
   hostname: "https://docs.abappm.com",
+  pageInfo: false,
   author: {
     name: "apm",
     url: "https://abappm.com"
@@ -32,9 +33,9 @@ export default hopeTheme({
       link: "/packages-and-modules/"
     },
     {
-      text: "apm Client",
+      text: "apm",
       icon: "/abap.svg",
-      link: "/apm-client/"
+      link: "/apm/"
     },
     {
       text: "Policies",
@@ -51,7 +52,7 @@ export default hopeTheme({
   // sidebar
   sidebar: "structure",
   footer: "",
-  copyright: "Copyright 2026 apm.to Inc.",
+  copyright: "Copyright 2026 <a href='https://abappm.com' target='_blank'>apm.to Inc.</a>",
   displayFooter: true,
 
   markdown: {
@@ -89,10 +90,7 @@ export default hopeTheme({
     redirect: {
       // redirect old pages to new site (for future use, if required)
       config: {
-        "/old.html": "/new.html",
-        "/user-guide/": "/get-started/",
-        "/user-guide/getting-started/": "/apm-client/installation.html",
-        "/user-guide/getting-started/install.html": "/apm-client/installation.html"
+        "/old.html": "/new.html"
       }
     },
     slimsearch: {

@@ -5,7 +5,7 @@ article: false
 index: false
 ---
 
-Development-related information for contributors to the apm client and this docs site.
+Development-related information for contributors to the apm and this docs site.
 
 ## In This Section
 

@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Policies
 icon: scale-balanced
 article: false

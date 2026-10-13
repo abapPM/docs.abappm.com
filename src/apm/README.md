@@ -1,13 +1,13 @@
 ---
-title: apm Client
-icon: terminal
+title: apm
+icon: /abap.svg
 article: false
 index: false
 dir:
   order: 30
 ---
 
-The apm client is the ABAP-side tool for installing, managing, and publishing packages.
+The apm client is the ABAP-side tool for installing, managing, and publishing packages in your SAP system.
 
 ## In This Section
 
