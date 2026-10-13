@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Legal Disclosure
 order: 140
 ---
