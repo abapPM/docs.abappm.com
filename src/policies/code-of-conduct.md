@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Code of Conduct
 order: 40
 ---

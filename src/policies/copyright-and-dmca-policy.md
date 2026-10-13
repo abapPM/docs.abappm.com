@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Copyright and DMCA Policy
 order: 90
 ---

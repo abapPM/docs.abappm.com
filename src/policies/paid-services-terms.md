@@ -1,4 +1,5 @@
 ---
+editLink: false
 title: Paid Services Terms
 order: 30
 ---
