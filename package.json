@@ -18,7 +18,9 @@
   },
   "overrides": {
     "immutable": "5.1.9",
-    "postcss": "8.5.31"
+    "postcss": "8.5.31",
+    "vite": "8.2.4",
+    "markdown-it": "14.3.3"
   },
   "prettier": {
     "trailingComma": "none",
