@@ -22,7 +22,14 @@ export default defineUserConfig({
     ["meta", { name: "robots", content: "index, follow" }]
   ],
 
-  bundler: viteBundler(),
+  bundler: viteBundler({
+    viteOptions: {
+      ssr: {
+        // Process the search helper's CSS imports during page rendering.
+        noExternal: ["@vuepress/search-helper"]
+      }
+    }
+  }),
 
   theme,
 
